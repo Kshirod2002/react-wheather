@@ -39,7 +39,9 @@ External API: OpenWeatherMap API
 ** Installation**
 
 #Frontend Setup
+
 cd miniproject
+
 npm install
 
 **Run the frontend server**:
